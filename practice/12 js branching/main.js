@@ -49,4 +49,3 @@ if (userMessage && echoBotStatus === 'work') {
 } else {
     console.log('\nwhat\'s going on?');
 }
-
